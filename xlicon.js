@@ -1,3 +1,3 @@
 {
-	"name": "XLICON V4 MD"
+	"name": "S A M M I E _ MD"
 }                  
